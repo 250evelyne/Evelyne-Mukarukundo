@@ -58,11 +58,6 @@ Computer Science student at **LaSalle College** with a passion for creating inno
 - **Firebase Integration**: Real-time database implementations
 - **SQL Server**: Relational database design and optimization
 
-## 📊 GitHub Stats
-
-![Evelyne's GitHub stats](https://github-readme-stats.vercel.app/api?username=250evelyne&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=250evelyne&layout=compact&theme=radical)
 
 ## 🌐 Connect With Me
 
